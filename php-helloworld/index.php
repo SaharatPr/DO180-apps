@@ -1,4 +1,4 @@
 <?php
-print "Hello, World! php version is "
-print "ASDFGHJQWERTYUI"
+print "Hello, World! php version is ";
+print "ASDFGHJQWERTYUI";
 ?>
